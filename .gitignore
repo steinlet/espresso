@@ -31,3 +31,9 @@ doc/dg/html/
 doc/dg/background_errors.doc
 doc/dg/background_errors.sorted
 doc/dg/background_errors.unsorted
+
+# script files
+*end
+*obs
+*obs1
+*obs2
